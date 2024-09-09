@@ -1,4 +1,4 @@
-# deploy-nextjs-to-a-vps
+# Deploy Nextjs Project to a VPS
 This file has instructions to deploy a nextjs project to a VPS. The VPS can be acquired from any vendor (Contabo, Digital ocean, hostinger ...)
 ## Instructions
 1. After puchasing the VPS, connect to it using SSH by ``` ssh root@<ip-address> ```
